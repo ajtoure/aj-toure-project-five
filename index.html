@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Baloo+Tamma+2:wght@600;700;800&family=Bree+Serif&family=Nunito:wght@200;300;400&family=Poppins:wght@200;300&family=Rubik+Mono+One&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <div class="headBox">
+            <header>
+                <h1>my sunny day blog</h1>
+                <p>Keep track of your sunny and rainy days!</p>
+            </header>
+        </div>
+
+        <div class="main">
+            <aside class="prevEntries">
+                <ul>
+                    <li>
+                        <img src="http://placekitten.com/100/100" alt=""> previous entry
+                    </li>
+                    <li>
+                        <img src="http://placekitten.com/100/100" alt=""> previous entry
+                    </li>
+                    <li>
+                        <img src="http://placekitten.com/100/100" alt=""> previous entry
+                    </li>
+                    <li>
+                        <img src="http://placekitten.com/100/100" alt=""> previous entry
+                    </li>
+                </ul>
+            </aside>
+            <section class="formBox">
+                <form action="" method="" class="blogEntryForm" name="blogEntryForm">
+
+                    <label for="date" class="date" name="date">date:</label>
+                    <input type="date" class="date" name="date">
+
+                    <label for="oneGoodThing" class="oneGoodThing" name="oneGoodThing">what's one good thing that happened today?</label>
+                    <input type="text" name="oneGoodThing" placeholder="what's one good thing that happened today?" required>
+
+                    <label for="thankFul" class="thankFul" name="thankFul">what's one thing you are thankful for?</label>
+                    <input type="text" name="thankFul" placeholder="what's one thing you are thankful for?" required>
+
+                    <label for="toMorrow" class="toMorrow" name="toMorrow">what's one thing you'll do better tomorrow?</label>
+                    <input type="text" placeholder="what's one thing you'll do better tomorrow?" required>
+
+                    <label for="finalThoughts">any final thoughts?</label>
+                    <textarea name="finalThoughts" id="finalThoughts" cols="30" rows="10"></textarea>
+
+                    <label for="emoji">pick an emoji!</label>
+                    <select name="emoji" id="emoji">
+                        <option value="">:devil:</option>
+                        <option value="">:butterfly:</option>
+                        <option value="">:sunflower:</option>
+                        <option value="">:flower:</option>
+                    </select>
+
+                    <button type="submit">
+                        Submit
+                    </button>
+
+                    <button type="submit">Reset</button>
+                </form>
+            </section>
+        </div>
+
+        <div class="footerBox">
+            <footer>
+                <p>Copyright &copy A.J. Touré 2020</p>
+            </footer>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

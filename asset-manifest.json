@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aj-toure-project5/static/css/main.517aff5d.chunk.css",
-    "main.js": "/aj-toure-project5/static/js/main.f27939ac.chunk.js",
-    "main.js.map": "/aj-toure-project5/static/js/main.f27939ac.chunk.js.map",
-    "runtime-main.js": "/aj-toure-project5/static/js/runtime-main.100e1d8d.js",
-    "runtime-main.js.map": "/aj-toure-project5/static/js/runtime-main.100e1d8d.js.map",
-    "static/js/2.32d58704.chunk.js": "/aj-toure-project5/static/js/2.32d58704.chunk.js",
-    "static/js/2.32d58704.chunk.js.map": "/aj-toure-project5/static/js/2.32d58704.chunk.js.map",
-    "index.html": "/aj-toure-project5/index.html",
-    "precache-manifest.a2c2cc23a30387848427119cf0e34cc1.js": "/aj-toure-project5/precache-manifest.a2c2cc23a30387848427119cf0e34cc1.js",
-    "service-worker.js": "/aj-toure-project5/service-worker.js",
-    "static/css/main.517aff5d.chunk.css.map": "/aj-toure-project5/static/css/main.517aff5d.chunk.css.map",
-    "static/js/2.32d58704.chunk.js.LICENSE.txt": "/aj-toure-project5/static/js/2.32d58704.chunk.js.LICENSE.txt"
+    "main.css": "/aj-toure-project-five/static/css/main.517aff5d.chunk.css",
+    "main.js": "/aj-toure-project-five/static/js/main.61bad341.chunk.js",
+    "main.js.map": "/aj-toure-project-five/static/js/main.61bad341.chunk.js.map",
+    "runtime-main.js": "/aj-toure-project-five/static/js/runtime-main.4e08c815.js",
+    "runtime-main.js.map": "/aj-toure-project-five/static/js/runtime-main.4e08c815.js.map",
+    "static/js/2.e66a6d6f.chunk.js": "/aj-toure-project-five/static/js/2.e66a6d6f.chunk.js",
+    "static/js/2.e66a6d6f.chunk.js.map": "/aj-toure-project-five/static/js/2.e66a6d6f.chunk.js.map",
+    "index.html": "/aj-toure-project-five/index.html",
+    "precache-manifest.43698a17b75e7f63bd792ef1a3919e4e.js": "/aj-toure-project-five/precache-manifest.43698a17b75e7f63bd792ef1a3919e4e.js",
+    "service-worker.js": "/aj-toure-project-five/service-worker.js",
+    "static/css/main.517aff5d.chunk.css.map": "/aj-toure-project-five/static/css/main.517aff5d.chunk.css.map",
+    "static/js/2.e66a6d6f.chunk.js.LICENSE.txt": "/aj-toure-project-five/static/js/2.e66a6d6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.100e1d8d.js",
-    "static/js/2.32d58704.chunk.js",
+    "static/js/runtime-main.4e08c815.js",
+    "static/js/2.e66a6d6f.chunk.js",
     "static/css/main.517aff5d.chunk.css",
-    "static/js/main.f27939ac.chunk.js"
+    "static/js/main.61bad341.chunk.js"
   ]
 }

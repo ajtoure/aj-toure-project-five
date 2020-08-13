@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aj-toure-project5/precache-manifest.b95c4954903ce3b5f0987467ea24a1dc.js"
+  "/aj-toure-project5/precache-manifest.a2c2cc23a30387848427119cf0e34cc1.js"
 );
 
 self.addEventListener('message', (event) => {

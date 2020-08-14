@@ -1,37 +1,18 @@
-import React, { Component } from "react";
-import Firebase from './firebase';
+import React, { Component } from 'react';
 
 class PastEntries extends Component {
 
-    constructor() {
-        super() {
-            super();
-            this.state = {
-                diaryEntries: [];
-            }
-        }
-    }
     render() {
-        return (
+        return ( 
             <div>
-                <aside class="prevEntries">
+                <aside>
                     <ul>
-                        <li>
-                            <img src="" alt=""> previous entry
-                        </li>
-                        <li>
-                            <img src="http://placekitten.com/100/100" alt=""> previous entry
-                        </li>
-                        <li>
-                            <img src="http://placekitten.com/100/100" alt=""> previous entry
-                        </li>
-                        <li>
-                            <img src="http://placekitten.com/100/100" alt=""> 
-                            <p>previous entry</p> 
-                        </li>
-                    </ul>
-                </aside>
+                        <li>past entries will go here!</li>
+                    </ul> 
+                </aside> 
             </div>
         )
     }
 }
+
+export default PastEntries;
